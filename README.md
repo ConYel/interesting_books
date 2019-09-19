@@ -1,4 +1,4 @@
-# interesting_books
+# Interesting Online Books
 Online books regarding: 
 
 ## R best practises
