@@ -52,6 +52,12 @@ http://r-pkgs.had.co.nz/intro.html
 _by_  
 Hadley Wickham
 
+### ML with R
+* __An Introduction to Machine Learning with R__  
+https://lgatto.github.io/IntroMachineLearningWithR/index.html   
+_by_  
+Laurent Gatto
+
 ## Git / GitHub
 
 * __Happy Git and GitHub for the useR__   
