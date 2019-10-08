@@ -64,3 +64,7 @@ Laurent Gatto
 https://happygitwithr.com/  
 _by_    
 Jenny Bryan, the STAT 545 TAs, Jim Hester
+
+
+## PH525x series - Biomedical Data Science 
+http://genomicsclass.github.io/book/
