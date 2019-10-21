@@ -77,4 +77,9 @@ https://osca.bioconductor.org/
 _by_    
 Robert Amezquita
 
+* __Aaron’s single-cell thoughts__   
+https://ltla.github.io/SingleCellThoughts/
+_by_    
+Aaron Lun
+
 
