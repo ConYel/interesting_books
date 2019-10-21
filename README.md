@@ -68,3 +68,13 @@ Jenny Bryan, the STAT 545 TAs, Jim Hester
 
 ## PH525x series - Biomedical Data Science 
 http://genomicsclass.github.io/book/
+
+
+## Single cell RNA analysis
+
+* __Orchestrating Single-Cell Analysis with Bioconductor__   
+https://osca.bioconductor.org/
+_by_    
+Robert Amezquita
+
+
