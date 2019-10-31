@@ -82,4 +82,9 @@ https://ltla.github.io/SingleCellThoughts/
 _by_    
 Aaron Lun
 
+## Bioconductor 
 
+* __The Bioconductor 2018 Workshop Compilation__ 
+https://bioconductor.github.io/BiocWorkshops/
+_editors_
+Levi Waldron Sean Davis Marce Ramos Lori Shepherd Martin Morgan
