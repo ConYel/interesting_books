@@ -73,18 +73,18 @@ http://genomicsclass.github.io/book/
 ## Single cell RNA analysis
 
 * __Orchestrating Single-Cell Analysis with Bioconductor__   
-https://osca.bioconductor.org/
-_by_    
+https://osca.bioconductor.org/  
+_by_  
 Robert Amezquita
 
 * __Aaron’s single-cell thoughts__   
-https://ltla.github.io/SingleCellThoughts/
-_by_    
+https://ltla.github.io/SingleCellThoughts/  
+_by_  
 Aaron Lun
 
 ## Bioconductor 
 
-* __The Bioconductor 2018 Workshop Compilation__ 
-https://bioconductor.github.io/BiocWorkshops/
-_editors_
+* __The Bioconductor 2018 Workshop Compilation__  
+https://bioconductor.github.io/BiocWorkshops/   
+_editors_  
 Levi Waldron Sean Davis Marce Ramos Lori Shepherd Martin Morgan
