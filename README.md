@@ -88,3 +88,10 @@ Aaron Lun
 https://bioconductor.github.io/BiocWorkshops/   
 _editors_  
 Levi Waldron Sean Davis Marce Ramos Lori Shepherd Martin Morgan
+
+## Github pages
+
+* __Creating websites in R__  
+https://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html  
+_by_   
+Emily C. Zabor
