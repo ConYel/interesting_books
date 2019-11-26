@@ -89,6 +89,13 @@ https://bioconductor.github.io/BiocWorkshops/
 _editors_  
 Levi Waldron Sean Davis Marce Ramos Lori Shepherd Martin Morgan
 
+## Statistics 
+
+* __Modern Statistics for Modern Biology__  
+_by_  
+Susan Holmes, Wolfgang Huber  
+https://www.huber.embl.de/msmb/introduction.html
+
 ## Github pages
 
 * __Creating websites in R__  
