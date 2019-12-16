@@ -58,6 +58,11 @@ https://lgatto.github.io/IntroMachineLearningWithR/index.html
 _by_  
 Laurent Gatto
 
+* __TPOT and the Automatic Statistician__  
+http://thllwg.de/tpotr/    
+_by_  
+Thorben Hellweg, Christopher Olbrich, Christian Werner  
+
 ## Git / GitHub
 
 * __Happy Git and GitHub for the useR__   
