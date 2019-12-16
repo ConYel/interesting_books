@@ -97,9 +97,10 @@ Levi Waldron Sean Davis Marce Ramos Lori Shepherd Martin Morgan
 ## Statistics 
 
 * __Modern Statistics for Modern Biology__  
+https://www.huber.embl.de/msmb/introduction.html  
 _by_  
 Susan Holmes, Wolfgang Huber  
-https://www.huber.embl.de/msmb/introduction.html
+
 
 ## Github pages
 
