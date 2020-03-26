@@ -63,18 +63,6 @@ http://thllwg.de/tpotr/
 _by_  
 Thorben Hellweg, Christopher Olbrich, Christian Werner  
 
-## Git / GitHub
-
-* __Happy Git and GitHub for the useR__   
-https://happygitwithr.com/  
-_by_    
-Jenny Bryan, the STAT 545 TAs, Jim Hester
-
-
-## PH525x series - Biomedical Data Science 
-http://genomicsclass.github.io/book/
-
-
 ## Single cell RNA analysis
 
 * __Orchestrating Single-Cell Analysis with Bioconductor__   
@@ -101,6 +89,16 @@ https://www.huber.embl.de/msmb/introduction.html
 _by_  
 Susan Holmes, Wolfgang Huber  
 
+## Git / GitHub
+
+* __Happy Git and GitHub for the useR__   
+https://happygitwithr.com/  
+_by_    
+Jenny Bryan, the STAT 545 TAs, Jim Hester
+
+
+## PH525x series - Biomedical Data Science 
+http://genomicsclass.github.io/book/
 
 ## Github pages
 
