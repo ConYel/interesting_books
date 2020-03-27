@@ -87,6 +87,11 @@ https://bioconductor.github.io/BiocWorkshops/
 _editors_  
 Levi Waldron Sean Davis Marce Ramos Lori Shepherd Martin Morgan
 
+* __Operations on Genomic Intervals with GenomicRanges package__   
+https://al2na.github.io/compgenr/genomic_intervals/granges.html   
+_by_    
+Altuna Akalin   
+
 ## Statistics 
 
 * __Modern Statistics for Modern Biology__  
@@ -101,16 +106,17 @@ https://happygitwithr.com/
 _by_    
 Jenny Bryan, the STAT 545 TAs, Jim Hester
 
-
-## PH525x series - Biomedical Data Science 
-http://genomicsclass.github.io/book/
-
 ## Github pages
 
 * __Creating websites in R__  
 https://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html  
 _by_   
 Emily C. Zabor  
+
+
+
+## PH525x series - Biomedical Data Science 
+http://genomicsclass.github.io/book/
 
 
 ## Shiny  
