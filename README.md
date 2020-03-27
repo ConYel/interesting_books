@@ -110,4 +110,11 @@ http://genomicsclass.github.io/book/
 * __Creating websites in R__  
 https://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html  
 _by_   
-Emily C. Zabor
+Emily C. Zabor  
+
+
+## Shiny  
+* __Building Shiny apps - an interactive tutorial__  
+https://deanattali.com/blog/building-shiny-apps-tutorial/#1-before-we-begin  
+_by_   
+Dean Attali  
