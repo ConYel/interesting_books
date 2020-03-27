@@ -73,7 +73,12 @@ Robert Amezquita
 * __Aaron’s single-cell thoughts__   
 https://ltla.github.io/SingleCellThoughts/  
 _by_  
-Aaron Lun
+Aaron Lun  
+
+* __Analysis of single cell RNA-seq data__  
+https://scrnaseq-course.cog.sanger.ac.uk/website/index.html    
+_by_    
+Vladimir Kiselev
 
 ## Bioconductor 
 
