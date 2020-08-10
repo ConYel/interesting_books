@@ -92,6 +92,10 @@ https://al2na.github.io/compgenr/genomic_intervals/granges.html
 _by_    
 Altuna Akalin   
 
+* __Computational Genomics with R__  
+https://compgenomr.github.io/book/  
+_by_   
+Altuna Akalin
 ## Statistics 
 
 * __Modern Statistics for Modern Biology__  
@@ -113,11 +117,8 @@ https://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html
 _by_   
 Emily C. Zabor  
 
-
-
 ## PH525x series - Biomedical Data Science 
 http://genomicsclass.github.io/book/
-
 
 ## Shiny  
 * __Building Shiny apps - an interactive tutorial__  
