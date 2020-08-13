@@ -117,6 +117,11 @@ https://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html
 _by_   
 Emily C. Zabor  
 
+* __Blogdown: Creating Websites with R Markdown__  
+https://bookdown.org/yihui/blogdown/   
+_by_   
+Yihui Xie, Amber Thomas, Alison Presmanes Hill  
+
 ## PH525x series - Biomedical Data Science 
 http://genomicsclass.github.io/book/
 
