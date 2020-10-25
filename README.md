@@ -130,3 +130,8 @@ http://genomicsclass.github.io/book/
 https://deanattali.com/blog/building-shiny-apps-tutorial/#1-before-we-begin  
 _by_   
 Dean Attali  
+
+* __Mastering Shiny__  
+https://mastering-shiny.org/  
+_by_   
+Hadley Wickham   
