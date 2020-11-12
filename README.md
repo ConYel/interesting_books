@@ -57,6 +57,11 @@ https://dcl-wrangle.stanford.edu/index.html
 _by_    
 Sara Altman, Bill Behrman  
 
+* __Fundamentals of Data Visualization__   
+https://clauswilke.com/dataviz/index.html  
+_by_    
+Claus O. Wilke 
+
 ### Machine Learning with R
 * __An Introduction to Machine Learning with R__  
 https://lgatto.github.io/IntroMachineLearningWithR/index.html   
