@@ -26,7 +26,12 @@ https://advanced-r-solutions.rbind.io/
 _by_    
 Malte Grosser, Henning Bumann & Hadley Wickham
 
- 
+* __What They Forgot to Teach You About R__    
+https://rstats.wtf/index.html  
+_by_    
+Jennifer Bryan & Jim Hester
+
+
 * __Tidyverse Cookbook__    
 https://bookdown.org/Tazinho/Tidyverse-Cookbook/  
 _by_  
