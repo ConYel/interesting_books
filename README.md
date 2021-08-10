@@ -67,6 +67,11 @@ https://clauswilke.com/dataviz/index.html
 _by_    
 Claus O. Wilke 
 
+* __Statistical Inference via Data Science: A ModernDive into R and the Tidyverse__   
+https://moderndive.com/index.html
+_by_    
+Chester Ismay, Albert Y. Kim   
+
 ### Machine Learning with R
 * __An Introduction to Machine Learning with R__  
 https://lgatto.github.io/IntroMachineLearningWithR/index.html   
