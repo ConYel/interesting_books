@@ -67,6 +67,11 @@ https://clauswilke.com/dataviz/index.html
 _by_    
 Claus O. Wilke 
 
+* __ComplexHeatmap Complete Reference__   
+https://jokergoo.github.io/ComplexHeatmap-reference/book/    
+_by_    
+Zuguang Gu  
+
 * __Statistical Inference via Data Science: A ModernDive into R and the Tidyverse__   
 https://moderndive.com/index.html
 _by_    
