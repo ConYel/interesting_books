@@ -1,6 +1,13 @@
 # Interesting Online Books
 Online books regarding: 
 
+## Open Science  
+
+* __The Open Science Training Handbook__  
+https://open-science-training-handbook.github.io/Open-Science-Training-Handbook_EN/  
+
+
+
 ## R best practises
 
   
