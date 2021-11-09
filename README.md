@@ -157,6 +157,11 @@ Yihui Xie, Amber Thomas, Alison Presmanes Hill
 ## PH525x series - Biomedical Data Science 
 http://genomicsclass.github.io/book/
 
+## Biomedical Knowledge Mining using GOSemSim and clusterProfiler  
+https://yulab-smu.top/biomedical-knowledge-mining-book/index.html  
+_by_   
+Guangchuang Yu    
+
 ## Shiny  
 * __Building Shiny apps - an interactive tutorial__  
 https://deanattali.com/blog/building-shiny-apps-tutorial/#1-before-we-begin  
