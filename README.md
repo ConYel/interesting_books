@@ -60,7 +60,7 @@ _by_
 Jean Fan
 
 * __R packages__  
-http://r-pkgs.had.co.nz/intro.html  
+https://r-pkgs.org/  
 _by_  
 Hadley Wickham
 
