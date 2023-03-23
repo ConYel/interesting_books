@@ -172,3 +172,8 @@ Dean Attali
 https://mastering-shiny.org/  
 _by_   
 Hadley Wickham   
+  
+* __Engineering Production-Grade Shiny Apps__  
+https://engineering-shiny.org/index.html  
+_by_  
+Colin Fay, Sébastien Rochette, Vincent Guyader and Cervan Girard  
