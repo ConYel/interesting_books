@@ -131,7 +131,7 @@ Altuna Akalin
 ## Statistics 
 
 * __Modern Statistics for Modern Biology__  
-https://www.huber.embl.de/msmb/introduction.html  
+https://web.stanford.edu/class/bios221/book/  
 _by_  
 Susan Holmes, Wolfgang Huber  
 
