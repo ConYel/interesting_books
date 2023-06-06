@@ -39,6 +39,12 @@ _by_
 Jennifer Bryan & Jim Hester
 
 
+* __Modern R with the tidyverse__    
+https://modern-rstats.eu/  
+_by_    
+Bruno Rodrigues  
+
+
 * __Tidyverse Cookbook__    
 https://bookdown.org/Tazinho/Tidyverse-Cookbook/  
 _by_  
